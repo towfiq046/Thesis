@@ -1,0 +1,26 @@
+history:
+1. https://en.wikipedia.org/wiki/Time-sharing
+2. https://en.wikipedia.org/wiki/Distributed_computing
+3. https://en.wikipedia.org/wiki/Cloud_computing
+
+
+4. https://www.nist.gov/programs-projects/nist-cloud-computing-program-nccp
+
+iot:
+
+7. I. Strategy, “policy unit (spu),” ITU Internet Reports, 2005
+
+6. X. Jin, S. Chun, J. Jung, and K.-H. Lee, “Iot service selection based
+on physical service model and absolute dominance relationship,” in
+Proceedings of the 7th International Conference on Service-Oriented
+Computing and Applications (SOCA). IEEE, 2014, pp. 65–72
+
+7. Hsu, Chin-Lung; Lin, Judy Chuan-Chuan (2016). "An empirical examination of consumer 
+adoption of Internet of Things services: Network externalities and concern for 
+information privacy perspectives". Computers in Human Behavior. 62: 516–527. 
+doi:10.1016/j.chb.2016.04.023.
+
+8. Bonomi, Flavio; Milito, Rodolfo; Zhu, Jiang; Addepalli, Sateesh (2012-08-17). 
+"Fog computing and its role in the internet of things". ACM: 13–16. doi:10.1145/2342509.2342513. 
+ISBN 9781450315197. (wiki)
+
