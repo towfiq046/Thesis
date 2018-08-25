@@ -8,19 +8,27 @@ history:
 
 iot:
 
-7. I. Strategy, “policy unit (spu),” ITU Internet Reports, 2005
+7. I. Strategy, “policy unit (spu),” ITU Internet News, 2005
 
-6. X. Jin, S. Chun, J. Jung, and K.-H. Lee, “Iot service selection based
-on physical service model and absolute dominance relationship,” in
-Proceedings of the 7th International Conference on Service-Oriented
-Computing and Applications (SOCA). IEEE, 2014, pp. 65–72
+6. X. Jin, K.-H. Lee, S. Chun, and J. Jung, “Iot service selection based
+on physical service model and absolute dominance relationship,” IEEE in 2014, pp. 65 to 72
 
-7. Hsu, Chin-Lung; Lin, Judy Chuan-Chuan (2016). "An empirical examination of consumer 
+7. Hsu, Chuan-Chuan, Judy, Chin-Lung, Lin; (2016). "An empirical examination of consumer 
 adoption of Internet of Things services: Network externalities and concern for 
-information privacy perspectives". Computers in Human Behavior. 62: 516–527. 
-doi:10.1016/j.chb.2016.04.023.
+information privacy perspectives".
 
-8. Bonomi, Flavio; Milito, Rodolfo; Zhu, Jiang; Addepalli, Sateesh (2012-08-17). 
-"Fog computing and its role in the internet of things". ACM: 13–16. doi:10.1145/2342509.2342513. 
-ISBN 9781450315197. (wiki)
+8. Bonomi, Milito, Flavio, Addepalli, Sateesh, Rodolfo; Jiang, Zhu; (2012-08-17). 
+"Fog computing and its role in the internet of things".		 (wiki)
 
+
+money and number of iot:
+9. https://www.researchnester.com/reports/internet-of-things-iot-market-global-
+demand-growth-analysis-opportunity-outlook-2023/216
+
+10. https://www.businessinsider.com/intelligence/research-store?IR=T&utm_source=businessinsider&utm_medium=report_teaser&utm_term=report_teaser_store_text_link_how-the-internet-of-things-market-will-grow-2014-10&utm_content=report_store_teaser_text_link&utm_campaign=report_teaser_store_link#!/The-Internet-of-Things-Report/p/46301489
+
+CoT challenges:
+11. Atlam, H.F.; Alenezi, A.; Walters, R.J.; Wills, G.B.; Daniel, J. “Developing an adaptive Risk-based access control model for the Internet of Things.” In 2017, IEEE International Conference on IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and Internet of Things (iThings) and and IEEE Smart Data (SmartData), , UK, 21 to 23 June 2017;
+pp. 655–661   		 (BDCC)
+
+12. Yi, S.; Qin, Z.; Li, Q; Hao, Z.   “Fog computing- Platform and applications. In Proceedings of the 3rd Workshop” In 2015 on Hot Topics in Web Systems and Technologies, (HotWeb), USA, 24 to 25 October 2016; pp. 73 to 78.
